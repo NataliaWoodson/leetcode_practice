@@ -1,4 +1,4 @@
-def getConcatenation(self, nums):
+def getConcatenation(nums):
         """
         :type nums: List[int]
         :rtype: List[int]

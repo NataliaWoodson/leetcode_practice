@@ -1,4 +1,4 @@
-def calPoints(self, operations):
+def calPoints(operations):
         """
         :type operations: List[str]
         :rtype: int
